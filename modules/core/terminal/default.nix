@@ -14,7 +14,11 @@
 
   # ---- Home Configuration ----
   home-manager.users.${username} = {
-    programs.git.enable = true;
+    programs.git = {
+      enable = true;
+      userName = "terskine";
+      userEmail = "erskine.tom@gmail.com";
+      };
   };
 
   # ---- System Configuration ----
