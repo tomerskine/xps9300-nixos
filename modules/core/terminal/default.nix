@@ -32,6 +32,7 @@
     brightnessctl
     btop
     gh
+    lazygit
     mods
     nitch
     pavucontrol
