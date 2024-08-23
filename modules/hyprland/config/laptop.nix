@@ -122,7 +122,7 @@
                 	animation = border, 1, 10, snappyBezier
                 	animation = borderangle, 1, 100, smoothBezier, loop
                 	animation = fade, 1, 7, smoothBezier
-                	animation = workspaces, 1, 6, smoothBezier, slidefadevert 20%
+                	animation = workspaces, 1, 6, smoothBezier, slidefade 20%
                 }
 
                 dwindle {
