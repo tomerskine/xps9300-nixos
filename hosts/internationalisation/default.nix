@@ -1,9 +1,9 @@
 {
   # Set your time zone.
-  time.timeZone = "America/Toronto";
+  time.timeZone = "America/Chicago";
 
   # Select internationalisation properties.
-  i18n.defaultLocale = "en_CA.UTF-8";
+  i18n.defaultLocale = "en_US.UTF-8";
 
   services.xserver = {
     xkb.layout = "us";
